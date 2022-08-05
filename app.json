@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "GinasioGoodHealth",
+    "slug": "GinasioGoodHealth",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

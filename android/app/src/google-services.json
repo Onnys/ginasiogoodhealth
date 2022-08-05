@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "409516042590",
+    "project_id": "ginasiogoodhealth",
+    "storage_bucket": "ginasiogoodhealth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409516042590:android:484ea7d3ca9a636e3a47cf",
+        "android_client_info": {
+          "package_name": "com.ginasiogoodhealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409516042590-v7o562ovr1js9n1ittpn7pe6hkcbat6v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ginasiogoodhealth",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "409516042590-i1fd1nmmoc0rlv86p2ffn56uqqks103e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe3AO2rFJqTJTcJqLIOSgRy2MPvHSEBIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409516042590-i1fd1nmmoc0rlv86p2ffn56uqqks103e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
